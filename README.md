@@ -1,4 +1,4 @@
-                           -File Processor-
+File Processor-
 
 This Python script is designed to process data from multiple files located in a specific folder and generate an output CSV file with unique salary data, along with details of the second-highest salary and the average salary.
 
@@ -19,4 +19,4 @@ Python 3.x
 Instructions:
 Clone the repository.
 Place input files in the input_files folder.
-Run the script creast_data_systems.py.
+Run the script file_processor.py.
